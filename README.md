@@ -3,7 +3,7 @@ DiscordWebhookTool, a tool that will help you managing your discord`s server in 
 
 License
 ----------------------------------------------------------------------------------
-## Spanish:
+### Spanish:
 Licencia de Uso Limitado  
 
 Este software está protegido por derechos de autor. Al descargar o utilizar este software, usted acepta las siguientes condiciones:  
@@ -24,7 +24,7 @@ Este software está protegido por derechos de autor. Al descargar o utilizar est
 Para consultas sobre licencias adicionales, contacte al autor.  
 
 
-## English:
+### English:
 Limited Use License  
 
 This software is protected by copyright. By downloading or using this software, you agree to the following terms:  
@@ -44,7 +44,7 @@ This software is protected by copyright. By downloading or using this software, 
 
 For inquiries about additional licenses, contact the author.  
 
-## French:
+### French:
 Licence d'Utilisation Limitée  
 
 Ce logiciel est protégé par des droits d'auteur. En téléchargeant ou en utilisant ce logiciel, vous acceptez les conditions suivantes :  
@@ -64,7 +64,7 @@ Ce logiciel est protégé par des droits d'auteur. En téléchargeant ou en util
 
 Pour toute question concernant des licences supplémentaires, contactez l'auteur.  
 
-## Deutsch:
+### Deutsch:
 Lizenz für Eingeschränkte Nutzung  
 
 Diese Software ist urheberrechtlich geschützt. Durch das Herunterladen oder die Nutzung dieser Software stimmen Sie den folgenden Bedingungen zu:  
@@ -84,7 +84,7 @@ Diese Software ist urheberrechtlich geschützt. Durch das Herunterladen oder die
 
 Für Anfragen zu zusätzlichen Lizenzen kontaktieren Sie den Autor.  
 
-## Mandarin:
+### Mandarin:
 有限使用许可证  
 
 本软件受版权保护。下载或使用本软件即表示您同意以下条款：  
@@ -104,7 +104,7 @@ Für Anfragen zu zusätzlichen Lizenzen kontaktieren Sie den Autor.
 
 如需有关额外许可证的咨询，请联系作者。  
 
-## Russian:
+### Russian:
 Лицензия Ограниченного Использования  
 
 Это программное обеспечение защищено авторским правом. Загружая или используя это программное обеспечение, вы соглашаетесь с следующими условиями:  
@@ -124,7 +124,7 @@ Für Anfragen zu zusätzlichen Lizenzen kontaktieren Sie den Autor.
 
 Для получения дополнительной информации о лицензиях свяжитесь с автором.  
 
-## Italian:
+### Italian:
 Licenza di Utilizzo Limitato  
 
 Questo software è protetto da copyright. Scaricando o utilizzando questo software, accetti i seguenti termini:  
@@ -144,7 +144,7 @@ Questo software è protetto da copyright. Scaricando o utilizzando questo softwa
 
 Per richieste di licenze aggiuntive, contatta l'autore.  
 
-## Arabic:
+### Arabic:
 رخصة استخدام محدودة  
 
 هذا البرنامج محمي بموجب حقوق الطبع والنشر. باستخدام هذا البرنامج أو تنزيله، فإنك توافق على الشروط التالية:  
